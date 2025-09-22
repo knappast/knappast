@@ -4,10 +4,10 @@ a lot of C, massive coding in Smalltalk and even more in Java, somewhat in C++, 
 Not so much in Erlang, Prolog, C#, Cobol, Assembler, Php, Python, Fortran.
 
 I've done more gui-oriented solutions that I can keep track of. Done server/client stuff since day one (almost). Some realtime stuff. Interfaced to different sorts of db:s. 
-Now mostely MongoDB, and of cource Mysql, MS SQL Server, Oracle and even MS Acccess, and a little less with Neo4J. Even object db:s such as Gemstone and Versant.
+Now mostely MongoDB, and of course Mysql, MS SQL Server, Oracle and even MS Acccess, and a little less with Neo4J. Even object db:s such as Gemstone and Versant.
 DBs that where way ahead techwise.
 
-Now even "new" stuff such as Angualar with Typescript. Not su much with Reactive or Vue. Even though to be honest I really don't understand why and how it works. But
+Now even "new" stuff such as Angualar with Typescript. Not so much with Reactive or Vue. Even though to be honest I really don't understand that much why and how the inner parts of how the web/browser-stuff works :-). But
 it's fun.
 
 AND a lot of other cool and not so cool stuff :-)
